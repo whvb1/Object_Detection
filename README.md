@@ -1,2 +1,1 @@
-# Object_Detection
-just some work for a project
+THIS IS THE README
